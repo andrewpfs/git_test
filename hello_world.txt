@@ -1,2 +1,3 @@
 fdjafksfsjlajdfsjlkf
 Hello i am trying out this "git commit" instead of using "git commit -m"
+That is weird for some reason it doesnt show up on the repo so im trying again 
