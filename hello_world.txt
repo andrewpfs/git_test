@@ -1,1 +1,2 @@
 fdjafksfsjlajdfsjlkf
+Hello i am trying out this "git commit" instead of using "git commit -m"
